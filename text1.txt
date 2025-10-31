@@ -1,6 +1,1 @@
-created text1.txt file
-<<<<<<< HEAD
-
-=======
-git 
->>>>>>> 9dce6ff (modified)
+adshkasdjhcasdkjc
